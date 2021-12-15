@@ -1,0 +1,47 @@
+*{
+    box-sizing: border-box;
+    margin: 0px;
+    padding: 0px;
+}
+.main-card{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+.Img,img{
+    width: 200px;
+    height: 200px;
+    border-radius: 20px;
+    margin: 20px;
+}
+#Myname{
+    color: skyblue;
+    margin-left: -10px;
+    margin: 20px;
+}
+#location{
+    margin-left: -85px;
+    color: gray;
+}
+#loc{
+    margin-left: -60px;
+}
+#bldgrp{
+    margin-left: -70px;
+    color: gray;
+    margin-top: 20px;
+
+}
+#bldgp{
+    margin-left: -110px;
+}
+#age{
+    color: gray;
+    margin-left: -120px;
+    margin-top: 15px;
+
+}
+#ages{
+    margin-left: -120px;
+}
