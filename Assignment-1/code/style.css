@@ -1,1 +1,156 @@
+@media only screen and (max-width:320px){
+    .main-container{
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+    }
+    .first-box1,.first-box2{
+        width: 280px;
+        height: 150px;
+        background-color: yellow;
+        margin: 10px;
+    }
+    .first-container{
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+    .second-container{
+        background-color: rgb(216, 13, 114);
+        width: 90vw;
+        height:250px;
+        margin-top: 20px;
+    }
+    .three-box1,.three-box2{
+        background-color: rgb(95, 11, 165);
+        width: 280px;
+        height: 180px;
+    }
+    .three-box1{
+        margin-top: 20px;
+
+    }
+    .three-box2{
+        margin-top: 20px;
+        
+    }.three-box3{
+        display: none;
+        
+    }    
+}
+
+@media only screen and (max-width:1024px) and (min-width:768px){
+    .main-container{
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+    }
+    .first-container{
+        display: flex;
+    
+    }
+    .first-box1,.first-box2{
+        background-color: rgb(234, 255, 47);
+        width:45vw ;
+        height: 200px;
+        margin: 20px;
+    }
+    .second-container{
+        background-color: rgb(214, 18, 221);
+        width: 94vw;
+        height: 450px;
+    }
+    .three-container{
+        display: flex;
+    }
+    .three-box1,.three-box2,.three-box3{
+        background-color: orange;
+        width: 30vw;
+        height: 300px;
+        margin: 10px;
+        margin-top:20px
+
+    }
+
+}
+
+@media only screen and (max-width:768px) and (min-width:320px){
+    .main-container{
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+        padding: 20px;
+    }
+    .first-container{
+        display: flex;
+        flex-direction: row;
+        
+    }
+    .first-box1,.first-box2{
+        width: 32vh;
+        height: 200px;
+        background-color: yellow;
+        flex-wrap: wrap;
+
+    }
+    .first-box1,.first-box2{
+        margin:10px ;
+    }
+    .second-container{
+        background-color: rgb(216, 13, 114);
+        width: 90vw;
+        height:300px;
+        margin-top: 20px;
+    }
+    .three-container{
+        display: flex;
+        flex-direction: column;
+        margin-top: 20px;
+
+    }
+    .three-box1,.three-box2,.three-box3{
+        background-color: rgb(144, 26, 212);
+        width: 67vh;
+        height: 200px;
+    }
+    .three-box2{
+        margin-top: 20px;
+    }
+    .three-box3{
+        display: none;
+    }
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
