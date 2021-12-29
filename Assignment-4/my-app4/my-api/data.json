@@ -1,0 +1,33 @@
+{
+    "user":
+                [
+            {"name":"Shiva",
+            "location":"Bengaluru",
+            "likes":64,
+            "description": "Kick start your career",
+            "PostImage": "https://cdn.pixabay.com/photo/2016/07/15/15/55/dachshund-1519374_960_720.jpg",
+            "date": "11/11/2021"
+            },
+            {"name":"Sandeep",
+                "location":"Mumbai",
+                "likes":1464,
+                "description": "Be kind for no reason",
+                "PostImage": "https://cdn.pixabay.com/photo/2017/08/07/18/57/dog-2606759_960_720.jpg",
+                "date":"12/11/2021"
+            },
+            {"name":"Neeraj",
+            "location":"Pune",
+            "likes":30,
+            "description": "Sample Description",
+            "PostImage": "https://cdn.pixabay.com/photo/2015/11/17/13/13/puppy-1047521_960_720.jpg",
+            "date": "24/11/2021"
+            },
+            {"name":"Rahul",
+            "location":"Hyderabad",
+            "likes":30,
+            "description": "Sample Description for Post",
+            "PostImage": "https://cdn.pixabay.com/photo/2020/12/01/10/04/dog-5793625_960_720.jpg",
+            "date":"31/11/2021"
+            }
+            ]
+}
