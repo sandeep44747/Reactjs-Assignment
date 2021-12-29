@@ -1,0 +1,60 @@
+*{
+    box-sizing: border-box;
+    margin: 0px;
+    padding: 0px;
+}
+/* navbar-styling */
+.camera{
+    margin-left: 70vw;
+    color: greenyellow;
+}
+.insta{
+    color: coral;
+    margin-left: 70px;
+
+}
+#instaname{
+    margin-left: 5px;
+    font-size: 30px;
+    font-family: 'Times New Roman', Times, serif;
+}
+/* post-card styling */
+.maincontainer{
+ display: flex;
+ justify-content: center;
+}
+.postcontainer{
+    border: 2px solid black;
+    width: 500px;
+    height: 450px;
+    margin-top: 20px;
+    border-radius: 5px;
+}
+
+/* post card header styling */
+.header{
+    display: flex;
+    margin: 10px;
+}
+
+.threedot{
+    margin-left: 380px;
+    margin-top: -20px;
+}
+/* imagepost */
+.postImage,img{
+
+}
+
+
+/* bottom container */
+.BottomContainer{
+    margin: 15px;
+}
+.bottomfirst{
+    display: flex;
+}
+.bottomdate{
+    margin-left: 340px;
+    color: gray;
+}
